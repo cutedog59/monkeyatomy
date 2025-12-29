@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         tw-atomy-autofill(自用測試版)
+// @name         tw-atomy-autofill
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.0
 // @description  自動填寫 Atomy 訂單資料、付款資訊與同意操作（優化執行核心，提升流暢度）
 // @author       zihzih
 // @match        https://tw.atomy.com/*
